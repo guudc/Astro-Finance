@@ -1,5 +1,5 @@
 # Astro Finance Smart Contracts
-This repository contains the smart contracts for the Astro Finance project, a decentralized finance (DeFi) platform built on the Ethereum blockchain.
+This repository contains the smart contracts for the Astro Finance project, a decentralized finance (DeFi) platform built on the Arbitrum blockchain network.
 
 ## Getting Started
 To get started with the smart contracts, follow the instructions below.
