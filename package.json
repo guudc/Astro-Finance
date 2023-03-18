@@ -4,7 +4,8 @@
   "description": "Astro finance smart contracts",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx hardhat compile",
+    "test": "npx hardhat test"
   },
   "author": "",
   "license": "ISC",
