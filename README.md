@@ -44,6 +44,9 @@ npm run test
 
 This will run the test suite and output the results to the console.
 
+## View deployed contracts on Arbitrum testnet explorer
++[AST token](https://goerli-rollup-explorer.arbitrum.io/address/0xeF27d07276bAE185788FAbCB5943dAb77F110C9C).
+
 ## Contributing
 If you would like to contribute to the smart contracts, please fork this repository and submit a pull request.
 
