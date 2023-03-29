@@ -1,4 +1,5 @@
 /* Contains live deployed contract sin the Arbitrum goerli testnet */
 {
-  "ASTToken":"0xeF27d07276bAE185788FAbCB5943dAb77F110C9C"
+  "ASTToken":"0xeF27d07276bAE185788FAbCB5943dAb77F110C9C",
+  "aUDT": "0xFbBB51Bf0200937926aB0F9D6a4d6fa65a1de999",
 }
