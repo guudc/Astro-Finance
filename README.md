@@ -46,8 +46,8 @@ This will run the test suite and output the results to the console.
 
 ## View deployed contracts on Arbitrum testnet explorer
 +[AST token](https://goerli-rollup-explorer.arbitrum.io/address/0xeF27d07276bAE185788FAbCB5943dAb77F110C9C).
-+[Treasury](https://goerli-rollup-explorer.arbitrum.io/address/0x13e3B3213BD2Eb6E0b63b09FFfF7d1F96E7F54F4).
-+[AST USDT](https://goerli-rollup-explorer.arbitrum.io/address/0x13e3B3213BD2Eb6E0b63b09FFfF7d1F96E7F54F4). (Mint USDT for testing)
+-[Treasury](https://goerli-rollup-explorer.arbitrum.io/address/0x13e3B3213BD2Eb6E0b63b09FFfF7d1F96E7F54F4).
++[AST USDT](https://goerli-rollup-explorer.arbitrum.io/address/0xFbBB51Bf0200937926aB0F9D6a4d6fa65a1de999). (Mint USDT for testing)
 
 
 ## Contributing
