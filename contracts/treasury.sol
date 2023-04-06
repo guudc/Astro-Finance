@@ -18,7 +18,7 @@ interface AST {
     function mint(address to, uint256 amount) external returns (bool);
 }
 //Begining of contract
-contract TREASURY is Owner, BancorFormula {
+contract ASTRO_TREASURY is Owner, BancorFormula {
     //variables declaration
     IERC20 private AST_TOKEN; //exposes all the erc20 token functions
     AST private AST_TOKEN_MINT; //exposes the AST internal mint function
@@ -112,6 +112,9 @@ contract TREASURY is Owner, BancorFormula {
     function setStrategyDeployerAddress(address _deployer) external isOwner {
         STRATEGY_DEPLOYER = _deployer;
     }
-     
+    //returns the total USDT deposited
+    function totalUsdtDeposited() external view returns (uint) {
+         return RESERVE_BALANCE - (65 * 10**17);
+    }
 
 }
